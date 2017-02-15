@@ -4,7 +4,7 @@ Co to znaczy?
 
 - Dołącz do jednej z najszybciej rozwijających się firm IT w Polsce.
 - Pracuj z najlepszymi talentami w branży.
-- Rozwijaj się z projektu na projekt dzięki stosowanemu podejściu Agile. 
+- Rozwijaj się z projektu na projekt dzięki naszemu podejściu Agile. 
 - Uzyskaj dostęp do wiedzy i dołącz do grona ekspertów IT.
 - Ciesz się epicką atmosferą w pracy.
 
