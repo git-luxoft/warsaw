@@ -24,5 +24,5 @@ Co to znaczy?
 
 <B><A HREF="https://career.luxoft.com/job-opportunities/?arrFilter_ff%5BNAME%5D=&countryID=&arrFilter_pf%5Bcities%5D=41825&arrFilter_pf%5Bcategories%5D=&set_filter=Y&utm_source=gitjakluxoft.pl&utm_campaign=Git%20Jak%20Luxoft&utm_medium=referral&utm_content=kogo%20jeszcze%20szukamy#filter-form">SPRAWDŹ, KOGO JESZCZE SZUKAMY! </A></B>
 
-![Image](https://www.luxoft.com/r/img/?f=ua-tracking.png&utm_source=adwords&utm_medium=banner&utm_campaign=Git%20Jak%20Luxoft)
+
 
