@@ -1,4 +1,4 @@
-# <B> BĄDŹ GIT JAK LUXOFT </B>
+<IMG SRC="https://github.com/git-luxoft/warsaw/blob/master/header.jpg" ALT="GITJAKLUXOFT" />
 
 Co to znaczy? 
 
